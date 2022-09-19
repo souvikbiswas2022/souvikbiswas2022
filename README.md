@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
- <h1>Hi,</h1> I'm <h2>Souvik Biswas</h2>...An aspiring full-stack web developer with a specialization in MEAN stack with apassion for learning with an 
+ <h1>Hi,<h2> I'm Souvik Biswas</h2>...An aspiring full-stack web developer with a specialization in MEAN stack with apassion for learning with an 
 endless supply of optimism and curiosity.
 
 
