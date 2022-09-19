@@ -20,7 +20,7 @@ endless supply of optimism and curiosity.
 <img src="https://github-readme-stats.vercel.app/api?username=souvikbiswas2022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 ### Connect me :
-[<img width="26px"  src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png"/>][linkedin]
+[<img width="26px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/3536/3536569.png"/>][linkedin]
     [<img  width="28px"  src="https://cdn-icons-png.flaticon.com/512/522/522510.png"/>][portfolio]
 
 [portfolio]:https://souvikbiswas2022.github.io/
