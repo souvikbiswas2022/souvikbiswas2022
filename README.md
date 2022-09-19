@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-Hi, I'm Souvik Biswas...An aspiring full-stack web developer with aspecialization in MEAN stack with apassion for learning with an 
+Hi, I'm Souvik Biswas...An aspiring full-stack web developer with a specialization in MEAN stack with apassion for learning with an 
 endless supply of optimism and curiosity.
 
