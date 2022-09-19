@@ -21,7 +21,7 @@ endless supply of optimism and curiosity.
 ### Connect me :
 <a href="#" class="top"><i class='bx bx-up-arrow-alt' ></i></a>
 <a href="#" class="button danger" color="red">Delete post</a>
-
+<box-icon type='logo' name='linkedin-square'></box-icon>
 
 
 [portfolio]:https://souvikbiswas2022.github.io/
