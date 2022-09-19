@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 Hi, I'm Souvik Biswas...An aspiring full-stack web developer with a specialization in MEAN stack with apassion for learning with an 
 endless supply of optimism and curiosity.
 
+https://github-readme-stats.vercel.app/api?username=souvikbiswas2022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
