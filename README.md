@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 
 
 
- Hi, I'm <em><strong>Souvik Biswas</strong></em>...An aspiring full-stack web developer with a specialization in MEAN stack with a passion for learning with an 
+ Hi, I'm <em><strong>Souvik Biswas</strong></em>...An aspiring full-stack web developer with a <img width="1%" src=".\img\target.gif"/> specialization in MEAN stack with a passion for learning with an 
 endless supply of optimism and curiosity...
 
-I am a Quick learner,detailed-oriented,result driven person  and  Looking forward to applying and enhancing my skills and knowledge as a developer...
+I am a Quick learner,detailed-oriented,result driven person  and  i take great care in the experience, architecture, and code quality of the things I build.
+Looking forward to applying and enhancing my skills and knowledge as a developer...
 
 
 
