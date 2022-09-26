@@ -26,5 +26,13 @@ endless supply of optimism and curiosity.
 
 
 
+<div ><img width="26px" style="margin-right: 30px" onclick="https://souvikbiswas2022.github.io/" target="_blank" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></div>
+
+
+
+
+
+
+
 [portfolio]:https://souvikbiswas2022.github.io/
 [linkedin]:https://www.linkedin.com/in/souvik-biswas-74328a178/
