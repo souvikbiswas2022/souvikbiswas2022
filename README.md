@@ -1,10 +1,10 @@
-<!-- ### Hi there 👋
 
+<!-- 
 **souvikbiswas2022/souvikbiswas2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...Full-Stack Web Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 </div>
 
 
-
- Hi, I'm <em><strong>Souvik Biswas</strong></em>...An aspiring full-stack web developer with a <img width="1%" src=".\img\target.gif"/> specialization in MEAN stack with a passion for learning with an 
+### Hi there 👋
+ I'm <em><strong>Souvik Biswas</strong></em>... 🌱 An aspiring full-stack web developer with a <img width="1%" src=".\img\target.gif"/> specialization in MEAN stack with a passion for learning with an 
 endless supply of optimism and curiosity...
 
 I am a Quick learner,detailed-oriented,result driven person  and  i take great care in the experience, architecture, and code quality of the things I build.
@@ -57,8 +57,9 @@ Looking forward to applying and enhancing my skills and knowledge as a developer
 </div>
 
 
+
 <div class='container'>
-<img style="height: auto; width: 41%; margin-top:200px" class="img" src="https://github-readme-stats.vercel.app/api?username=souvikbiswas2022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img style="height: auto; width: 41%; " class="img" src="https://github-readme-stats.vercel.app/api?username=souvikbiswas2022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikbiswas2022&theme=blue-green&langs_count=8&layout=compact" /></div>
