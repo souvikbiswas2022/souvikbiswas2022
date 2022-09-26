@@ -23,7 +23,7 @@ endless supply of optimism and curiosity.
 
     [<img  width="28px"  src="https://cdn-icons-png.flaticon.com/512/868/868947.png"/>][portfolio]
 
-<div align="center">[<img width="26px" style="margin-right: 30px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>][linkedin]</div>
+[<div ><img width="26px" style="margin-right: 30px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></div>][linkedin]
 
 
 
