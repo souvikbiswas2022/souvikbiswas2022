@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 endless supply of optimism and curiosity.
 
 
-<img src=""/>
+
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=souvikbiswas2022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api?username=souvikbiswas2022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikbiswas2022&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
 
 
-### Connect me :
+### Connect me ...
 
 
 <div class='container'>
@@ -37,6 +37,21 @@ endless supply of optimism and curiosity.
 <a href="https://www.linkedin.com/in/souvik-biswas-74328a178/"><img width="26px" style="margin-right: 30px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a></div>
 </div>
 
+### Tech-Stacks ...
+
+<div class='container'>
+<img style="height: auto; width: 2%;" class="img" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 2%;" class="img" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 2%;" class="img" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 2%;" class="img" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+</div>
+</div>
 
 
 [portfolio]:https://souvikbiswas2022.github.io/
