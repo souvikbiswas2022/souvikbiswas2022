@@ -21,7 +21,7 @@ endless supply of optimism and curiosity.
 
 ### Connect me :
 [<img width="26px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>][linkedin]
-    [<img  width="28px"  src="https://cdn-icons-png.flaticon.com/512/522/522510.png"/>][portfolio]
+    [<img  width="28px"  src="[https://cdn-icons-png.flaticon.com/512/522/522510.png](https://cdn-icons-png.flaticon.com/512/868/868947.png)"/>][portfolio]
 
 [portfolio]:https://souvikbiswas2022.github.io/
 [linkedin]:https://www.linkedin.com/in/souvik-biswas-74328a178/
