@@ -19,19 +19,14 @@ Here are some ideas to get you started:
 </div>
 
 
-<img src=""/>
+
  Hi, I'm <em><strong>Souvik Biswas</strong></em>...An aspiring full-stack web developer with a specialization in MEAN stack with apassion for learning with an 
 endless supply of optimism and curiosity.
 
 
 
 
-<div class='container'>
-<img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api?username=souvikbiswas2022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikbiswas2022&theme=blue-green&langs_count=8&layout=compact" /></div>
-</div>
+
 
 
 ### Connect me ...
@@ -61,9 +56,14 @@ endless supply of optimism and curiosity.
 </div>
 
 
+<div class='container'>
+<img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api?username=souvikbiswas2022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikbiswas2022&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
 
 
-<div></div>
 
 [portfolio]:https://souvikbiswas2022.github.io/
 [linkedin]:https://www.linkedin.com/in/souvik-biswas-74328a178/
