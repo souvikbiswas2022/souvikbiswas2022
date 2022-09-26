@@ -40,19 +40,25 @@ endless supply of optimism and curiosity.
 ### Tech-Stacks ...
 
 <div class='container'>
-<img style="height: auto; width: 3%;" class="img" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" />
+<img style="height: auto; width: 4%;" class="img" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 3%;" class="img" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />
+<img style="height: auto; width: 4%;" class="img" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 3%;" class="img" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
+<img style="height: auto; width: 4%;" class="img" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 3%;" class="img" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+<img style="height: auto; width: 4%;" class="img" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 </div>
 </div>
 
+
+<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/></div>
+
+
+
+<div></div>
 
 [portfolio]:https://souvikbiswas2022.github.io/
 [linkedin]:https://www.linkedin.com/in/souvik-biswas-74328a178/
