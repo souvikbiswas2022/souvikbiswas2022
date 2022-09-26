@@ -20,15 +20,15 @@ endless supply of optimism and curiosity.
 <img src="https://github-readme-stats.vercel.app/api?username=souvikbiswas2022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 ### Connect me :
-[<div><img  width="28px"  src="https://cdn-icons-png.flaticon.com/512/868/868947.png"/></div>][portfolio]
-[<div ><img width="26px" style="margin-right: 30px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></div>][linkedin]
+<!-- [<div><img  width="28px"  src="https://cdn-icons-png.flaticon.com/512/868/868947.png"/></div>][portfolio]
+[<div ><img width="26px" style="margin-right: 30px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></div>][linkedin] -->
 
 
 
+
+<div ><a href="https://www.linkedin.com/in/souvik-biswas-74328a178/"><img  width="28px"  src="https://cdn-icons-png.flaticon.com/512/868/868947.png"/></a></div>
 
 <div ><a href="https://souvikbiswas2022.github.io/"><img width="26px" style="margin-right: 30px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a></div>
-
-
 
 
 
