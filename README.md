@@ -40,16 +40,16 @@ endless supply of optimism and curiosity.
 ### Tech-Stacks ...
 
 <div class='container'>
-<img style="height: auto; width: 2%;" class="img" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" />
+<img style="height: auto; width: 3%;" class="img" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 2%;" class="img" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />
+<img style="height: auto; width: 3%;" class="img" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 2%;" class="img" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
+<img style="height: auto; width: 3%;" class="img" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 2%;" class="img" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+<img style="height: auto; width: 3%;" class="img" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 </div>
 </div>
 
