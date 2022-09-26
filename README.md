@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+
+<div id="header" align="center">
+  <img src=".\img\code.gif" width="35%"/>
+</div>
+
+
+<img src=""/>
  Hi, I'm <em><strong>Souvik Biswas</strong></em>...An aspiring full-stack web developer with a specialization in MEAN stack with apassion for learning with an 
 endless supply of optimism and curiosity.
 
@@ -53,8 +60,6 @@ endless supply of optimism and curiosity.
 </div>
 </div>
 
-
-<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif"/></div>
 
 
 
