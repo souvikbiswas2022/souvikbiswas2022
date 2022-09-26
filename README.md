@@ -58,7 +58,7 @@ Looking forward to applying and enhancing my skills and knowledge as a developer
 
 
 <div class='container'>
-<img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api?username=souvikbiswas2022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img style="height: auto; width: 41%; margin-top:20px" class="img" src="https://github-readme-stats.vercel.app/api?username=souvikbiswas2022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikbiswas2022&theme=blue-green&langs_count=8&layout=compact" /></div>
