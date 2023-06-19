@@ -55,7 +55,7 @@ Looking forward to applying and enhancing my skills and knowledge continuously a
 <img style="height: auto; width: 4%;" class="img" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 4%;" class="img" src="https://www.bing.com/images/search?view=detailV2&ccid=XSbd4YH9&id=FB242139EE53DF84C9E57887C5C1BA54E5781290&thid=OIP.XSbd4YH9F4wbRPOfQlndBwAAAA&mediaurl=https%3a%2f%2fgroupe-sii.github.io%2fogham%2fv3.0.0%2fimages%2ficons%2fspring-boot.png&exph=300&expw=300&q=spring+boot&simid=608012858172654197&FORM=IRPRST&ck=9887E19735502B2F174BD23D38D07CF7&selectedIndex=84&ajaxhist=0&ajaxserp=0" />
+<img style="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" />
 </div>
 </div>
 
