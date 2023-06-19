@@ -55,7 +55,7 @@ Looking forward to applying and enhancing my skills and knowledge continuously a
 <img style="height: auto; width: 4%;" class="img" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 &nbsp;
 &nbsp;
-<img style="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" />
+<img style="height: auto; width: 4%;" class="img" src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" />
 </div>
 </div>
 
