@@ -27,7 +27,13 @@ I am a Quick learner,detailed-oriented,result driven person  and  i take great c
 Looking forward to applying and enhancing my skills and knowledge continuously as a developer...
 
 
-
+### Connect me ...
+<div class='container'>
+<a href="https://souvikbiswas2022.github.io/"><img  width="28px"  src="https://cdn-icons-png.flaticon.com/512/868/868947.png"/></a> 
+&nbsp;
+&nbsp;
+<a href="https://www.linkedin.com/in/souvik-biswas-74328a178/"><img width="26px" style="margin-right: 30px" target="_blank" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a></div>
+</div>
 
 
 
