@@ -30,8 +30,6 @@ Looking forward to applying and enhancing my skills and knowledge continuously a
 
 
 
-### Connect me ...
-
 
 
 ### Tech-Stacks ...
